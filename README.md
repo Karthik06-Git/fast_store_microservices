@@ -108,24 +108,6 @@ docker compose up --build
 
 ---
 
-## ✅ Tutorial Progress
-
-| Day | Topic | Status |
-|-----|-------|--------|
-| Day 1 | Microservices Architecture Overview | ✅ |
-| Day 2 | Professional Microservices Workspace | ✅ |
-| Day 3 | SQLModel & CRUD Endpoints | ✅ |
-| Day 4 | Docker, Compose & PostgreSQL | ✅ |
-| Day 7 | API Gateway & Shared Authentication | ✅ |
-| Day 8 | Message Broker Integration | ✅ |
-| Day 9 | Event-Driven Workflow | ✅ |
-| Day 10| Dead Letter Queues | ✅ |
-| Day 12| Centralized Logging (Loki, Promtail, Grafana) | ✅ |
-| Day 13| Kubernetes, Health Checks & Self-healing | ✅ |
-| Day 15| CI/CD Pipelines | ✅ |
-| Day 16| Scaling and Load Balancing | ✅ |
-
----
 
 ## 📜 License
 
